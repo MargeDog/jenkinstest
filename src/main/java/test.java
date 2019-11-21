@@ -8,6 +8,8 @@
  */
 public class test {
     public static void main(String[] args) {
-        System.out.println("test success");
+        System.out.println("----------------");
+        System.out.println("这是回滚前的版本");
+        System.out.println("----------------");
     }
 }
