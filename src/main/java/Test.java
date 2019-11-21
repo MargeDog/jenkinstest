@@ -11,5 +11,6 @@ public class Test {
         System.out.println("----------------");
         System.out.println("这是回滚前的版本");
         System.out.println("----------------");
+        System.out.println("这是回滚后的版本");
     }
 }
