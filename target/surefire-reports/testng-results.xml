@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="29" started-at="2020-03-05T11:01:19Z" finished-at="2020-03-05T11:01:19Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="29" started-at="2020-03-05T11:01:19Z" finished-at="2020-03-05T11:01:19Z">
+      <class name="TestTest">
+        <test-method status="PASS" signature="testAdd()[pri:0, instance:TestTest@3a627c80]" name="testAdd" duration-ms="10" started-at="2020-03-05T11:01:19Z" finished-at="2020-03-05T11:01:19Z">
+        </test-method> <!-- testAdd -->
+        <test-method status="PASS" signature="testSub()[pri:0, instance:TestTest@3a627c80]" name="testSub" duration-ms="0" started-at="2020-03-05T11:01:19Z" finished-at="2020-03-05T11:01:19Z">
+        </test-method> <!-- testSub -->
+      </class> <!-- TestTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
