@@ -27,11 +27,6 @@
             <scope>test</scope>
             <optional>true</optional>
         </dependency>
-        <dependency>
-            <groupId>org.jacoco</groupId>
-            <artifactId>jacoco-maven-plugin</artifactId>
-            <version>0.8.1</version>
-        </dependency>
     </dependencies>
 
 

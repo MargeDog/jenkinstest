@@ -2,14 +2,14 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="TestTest" duration-ms="14" started-at="2020-05-08T10:56:23Z" finished-at="2020-05-08T10:56:23Z">
+  <suite name="TestTest" duration-ms="34" started-at="2020-05-08T11:04:26Z" finished-at="2020-05-08T11:04:26Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="14" started-at="2020-05-08T10:56:23Z" finished-at="2020-05-08T10:56:23Z">
+    <test name="Command line test" duration-ms="34" started-at="2020-05-08T11:04:26Z" finished-at="2020-05-08T11:04:26Z">
       <class name="TestTest">
-        <test-method status="PASS" signature="testAdd()[pri:0, instance:TestTest@3b81a1bc]" name="testAdd" duration-ms="7" started-at="2020-05-08T10:56:23Z" finished-at="2020-05-08T10:56:23Z">
+        <test-method status="PASS" signature="testAdd()[pri:0, instance:TestTest@7d417077]" name="testAdd" duration-ms="14" started-at="2020-05-08T11:04:26Z" finished-at="2020-05-08T11:04:26Z">
         </test-method> <!-- testAdd -->
-        <test-method status="PASS" signature="testSub()[pri:0, instance:TestTest@3b81a1bc]" name="testSub" duration-ms="0" started-at="2020-05-08T10:56:23Z" finished-at="2020-05-08T10:56:23Z">
+        <test-method status="PASS" signature="testSub()[pri:0, instance:TestTest@7d417077]" name="testSub" duration-ms="0" started-at="2020-05-08T11:04:26Z" finished-at="2020-05-08T11:04:26Z">
         </test-method> <!-- testSub -->
       </class> <!-- TestTest -->
     </test> <!-- Command line test -->
