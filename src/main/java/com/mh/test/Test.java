@@ -9,7 +9,9 @@ package com.mh.test;
 public class Test {
 
     public int add(int a, int b) {
+        System.out.println("a,b");
         return a + b;
+
     }
 
     public int sub(int a, int b) {
